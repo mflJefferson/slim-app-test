@@ -8,11 +8,6 @@ This skeleton application was built for Composer. This makes setting up a new Sl
 
 ## Install the Application
 
-Run this command from the directory in which you want to install your new Slim Framework application.
-
-```bash
-composer create-project slim/slim-skeleton [my-app-name]
-```
 
 Replace `[my-app-name]` with the desired directory name for your new application. You'll want to:
 
